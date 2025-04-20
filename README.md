@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **alexmatiasas/alexmatiasas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,12 +34,6 @@ I'm a physicist with a Ph.D. in theoretical particle physics, now transitioning 
 
 - [Fraud Detection with ML (Python)](https://github.com/alexmatiasas/Fraud-Detection-with-ML)  
   Binary classification project using imbalanced datasets, feature engineering, and performance metrics.
-
-- [Tsallis Bag Model for Hadrons (PhD Project)](https://github.com/alexmatiasas)  
-  Thermodynamic modeling with non-extensive statistics and symbolic computation.
-
-- [Population Dynamics with Fractional Calculus (Bachelor’s Thesis)](https://github.com/alexmatiasas)  
-  Finite Element simulations of predator–prey systems using FEniCS and fractional differential equations.
 
 ---
 
