@@ -1,62 +1,61 @@
-<!--
-**alexmatiasas/alexmatiasas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Alejandro Matías — Physicist turned Data Scientist & ML Engineer
 
-Here are some ideas to get you started:
+I’m a **Ph.D. in Theoretical Physics** now working as a **Data Scientist** with a strong focus on **Machine Learning**, **NLP**, and **MLOps**. My background in mathematical modeling and scientific computing allows me to approach data problems with a deep, analytical mindset — from physical simulations to large-scale ML systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi, I'm Alejandro Matías — Physicist turned Data Scientist
-
-I'm a physicist with a Ph.D. in theoretical particle physics, now transitioning into data science with a strong focus on NLP, machine learning, and statistical modeling. I enjoy solving complex problems, visualizing insights, and building meaningful tools powered by data.
-
-### 🔍 What I do
-
-- Build data pipelines and exploratory analyses in **Python** and **R**
-- Work with NLP tasks: tokenization, stemming, lemmatization, n-gram models
-- Develop machine learning models using **scikit-learn**, exploring **PyTorch** and **TensorFlow**
-- Simulate physical systems using **finite elements**, **symbolic math**, and **scientific computing**
-- Document everything in **Jupyter** and **RMarkdown**, with reproducibility as a priority
+I enjoy building **real-world, production-ready ML solutions**: from idea to deployment.
 
 ---
 
-### 🚀 Featured Projects
+## 🔧 What I do
 
-- [Sentiment Analysis on IMDB Reviews (R)](https://github.com/alexmatiasas/Sentiment-Analysis)  
-  NLP analysis, preprocessing, stemming/lemmatization, n-grams, visualizations and future model deployment.
-
-- [Fraud Detection with ML (Python)](https://github.com/alexmatiasas/Fraud-Detection-with-ML)  
-  Binary classification project using imbalanced datasets, feature engineering, and performance metrics.
-
----
-
-### ⚙️ Technologies
-
-`Python` | `R` | `Jupyter` | `Pandas` | `NumPy` | `scikit-learn` | `ggplot2` | `tidytext` | `Docker` | `Git` | `Linux`
+- ✅ Develop end-to-end ML pipelines using **Python**, **FastAPI**, **Docker**, and **CI/CD**
+- 📊 Perform in-depth **EDA and feature engineering** using **pandas**, **numpy**, and **matplotlib**
+- 🧠 Build models for **recommendation systems**, **fraud detection**, **time series forecasting**, and **sentiment analysis**
+- 🌐 Create interactive dashboards and REST APIs for model deployment
+- 🧪 Combine scientific and ML approaches — e.g. simulations, PINNs, chaos/stochastic modeling (in Julia/Fortran)
 
 ---
 
-### 🌍 Currently open to
+## 🚀 Selected Projects
 
-- Remote roles in Data Science, ML, or NLP  
-- Junior / Entry-level opportunities with learning potential  
-- Projects or research collaborations with real-world impact
+- 🎬 [**Movie Recommendation System**](https://github.com/alexmatiasas/Personalized-Recommendation-System)  
+  Hybrid content-based & collaborative filtering system with FastAPI, Docker, SQLite/SQL, and modular architecture.
+
+- 🛡️ [**Fraud Detection with ML**](https://github.com/alexmatiasas/Fraud-Detection-with-ML)  
+  Real-world simulation of fraud detection pipelines with Airflow, API, Docker, and metrics like ROC-AUC, Precision, Recall.
+
+- 💬 [**Sentiment Analysis on IMDb**](https://github.com/alexmatiasas/Sentiment-Analysis)  
+  NLP pipeline in R for review classification with tokenization, lemmatization, n-gram analysis, and future deep learning.
+
+- 📈 [**Time Series Forecasting**](https://github.com/alexmatiasas/Prediction-Temporal-Series) *(in progress)*  
+  Multivariate energy demand and pricing predictor using regression models and plans for deep learning + dashboarding.
+
+- 🖼️ [**Image Classification (CIFAR-10)**](https://github.com/alexmatiasas/Image-Classification) *(EDA completed)*  
+  Exploratory analysis with R + Python, preparing CNNs and deployment via FastAPI or Streamlit.
 
 ---
 
-### 📫 Let's connect
+## 🛠️ Tech Stack
 
-- **GitHub:** [@alexmatiasas](https://github.com/alexmatiasas)  
-- **LinkedIn:** [linkedin.com/in/alexmatiasastorga](https://www.linkedin.com/in/alexmatiasastorga/)  
-- **Portfolio:** [alexmatiasas.github.io](https://alexmatiasas.github.io)
+`Python` | `R` | `pandas` | `scikit-learn` | `XGBoost` | `PyTorch` | `FastAPI` | `Docker` | `Git` | `Airflow`  
+`Streamlit` | `Jupyter` | `RMarkdown` | `SQL` | `Linux` | `ggplot2` | `tidytext`
 
 ---
 
-_"Bridging science and data to build smarter tools and better insights."_
+## 🌍 Open to
+
+- 📌 Remote roles in **Data Science**, **ML Engineering**, or **NLP**
+- 🔎 Freelance projects on Upwork (ML, API, NLP, data pipelines)
+- 🤝 Collaborations involving **scientific modeling**, **PINNs**, or **computational physics**
+
+---
+
+## 📫 Get in Touch
+
+- 🔗 **GitHub:** [@alexmatiasas](https://github.com/alexmatiasas)  
+- 💼 **LinkedIn:** [linkedin.com/in/alexmatiasastorga](https://www.linkedin.com/in/alexmatiasastorga/)  
+- 🌐 **Portfolio:** [alexmatiasas.github.io](https://alexmatiasas.github.io)
+
+---
+
+> _“Bridging science, machine learning, and real-world applications — one model at a time.”_
