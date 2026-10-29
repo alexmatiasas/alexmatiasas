@@ -163,6 +163,7 @@ learning: Reinforcement Learning
 ### ☁ $\color{gold}{\textsf{Cloud and Providers}}$
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=plastic&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-F9D72C?style=plastic&logo=aws&logoColor=black)
 ![Render](https://img.shields.io/badge/Render-000000?style=plastic&logo=render&logoColor=46E3B7)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=plastic&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
