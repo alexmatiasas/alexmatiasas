@@ -12,9 +12,9 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=alexmatiasas&layout=compact&langs_count=6&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api/top-langs?username=alexmatiasas&layout=compact&langs_count=6&theme=github_dark_dimmed)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexmatiasas/alexmatiasas/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexmatiasas/alexmatiasas/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/alexmatiasas/alexmatiasas/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alexmatiasas&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
@@ -25,7 +25,7 @@
 
 ## $\color{steelblue}{▼}$
 
-#### $\color{steelblue}{\texttt{ Data Scientist · Machine Learning Engineer  · MLOps · AI Engineer }$
+#### $\color{steelblue}{\texttt{ Data Scientist · Machine Learning Engineer  · MLOps · AI Engineer }}$
 
 ##### $\color{dodgerblue}{\textsf{Also: Open Source Builder, Linux Enthusiast, Strategic Game Player}}$
 
@@ -61,7 +61,7 @@ Long term, I'd like to keep going deeper into Reinforcement Learning, but for no
 #### ⚡ At a Glance
 
 ```yaml
-name: Manuel Alejandro Matías Astorga
+name: Alejandro Matías
 role: Data Scientist & ML Engineer
 focus: End-to-end ML · RAG systems · Recommender Systems
 experience: 3.5+ yrs in AI/ML
@@ -186,6 +186,14 @@ learning: Reinforcement Learning
 
 ---
 
+## 🌍 Open to
+
+- 📌 Remote roles in **Data Science**, **ML Engineering**, **MLOps** or **AI Engineering**
+- 🔎 Freelance projects on Upwork (**ML**, **API**, **AI**, **data pipelines** and _related work [ask for availability]_)
+- 🤝 Collaborations involving **modeling**, **open source** or **computational physics**
+
+---
+
 <div align="right">
 
 ## 📌 Pinned Projects
@@ -225,12 +233,6 @@ learning: Reinforcement Learning
 </div>
 
 ---
-
-## 🌍 Open to
-
-- 📌 Remote roles in **Data Science**, **ML Engineering**, **MLOps** or **AI Engineering**
-- 🔎 Freelance projects on Upwork (**ML**, **API**, **AI**, **data pipelines** and _related work [ask for availability]_)
-- 🤝 Collaborations involving **modeling**, **open source** or **computational physics**
 
 <div align="right">
 
