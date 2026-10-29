@@ -25,13 +25,7 @@
 
 ## $\color{steelblue}{▼}$
 
-#### $\color{steelblue}{\texttt{ Data Scientist · Machine Learning Engineer  · MLOps · AI Engineer }}$
-
-##### $\color{dodgerblue}{\textsf{Also: Open Source Builder, Linux Enthusiast, Strategic Game Player}}$
-
-</div>
-
-<div align="center">
+#### $\color{steelblue}{\texttt{ Data Scientist · Machine Learning Engineer · MLOps · AI Engineer }}$
 
 </div>
 
@@ -123,7 +117,7 @@ learning: Reinforcement Learning
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=4DABCF)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-lelearn?&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-AA2424?style=plastic&logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=plastic&logo=lightgbm&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
@@ -177,57 +171,35 @@ learning: Reinforcement Learning
 
 </div>
 
-<div align="center">
-
-<div align="center">
-
-</div>
-
-</div>
-
 ---
 
 ## 🌍 Open to
 
-- 📌 Remote roles in **Data Science**, **ML Engineering**, **MLOps** or **AI Engineering**
-- 🔎 Freelance projects on Upwork (**ML**, **API**, **AI**, **data pipelines** and _related work [ask for availability]_)
-- 🤝 Collaborations involving **modeling**, **open source** or **computational physics**
+- 🌐 **Remote-first** – Primarily open to remote roles and contract work with international teams
+- 📍 **On-site/Hybrid** – Open to on-site or hybrid opportunities **within Mexico** only, if it's a great fit
+- 🤝 **Collaborations** – Applied ML, end-to-end ML pipelines, RAG systems, recommender systems, MLOps, or computational physics
 
 ---
 
-<div align="right">
+<div align="center">
 
 ## 📌 Pinned Projects
 
 ### 🤖 Data, Machine Learning and AI work
 
-🛡️ [**Fraud Detection with ML**](https://github.com/alexmatiasas/Fraud-Detection-with-ML)
-
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=alexmatiasas&repo=alexmatiasas%2Ffraud-detection-ml&show_owner=true&description_lines_count=1&theme=dark_github_repocard)](https://github.com/alexmatiasas/fraud-detection-ml)
-
-🦊 [librarian-fox](https://github.com/alexmatiasas/librarian-fox)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=alexmatiasas&repo=alexmatiasas%2Flibrarian-fox&show_owner=true&description_lines_count=2&theme=dark_github_repocard)](https://github.com/alexmatiasas/librarian-fox)
 
-🐭 [vgc-team-recommender](https://github.com/alexmatiasas/vgc-team-recommender)
-
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=alexmatiasas&repo=alexmatiasas%2Fvgc-team-recommender&show_owner=true&description_lines_count=2&theme=dark_github_repocard)](https://github.com/alexmatiasas/vgc-team-recommender)
 
-### ✨ Other interesting projects I've worked
-
-⚙️ **[My nix-config repo](https://github.com/alexmatiasas/nix-config)**
+### ⚙️ Systems, Tooling & Experiments
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=alexmatiasas&repo=alexmatiasas%2Fnix-config&show_owner=true&description_lines_count=2&theme=dark_github_repocard)](https://github.com/alexmatiasas/nix-config)
 
-📦 **[spm](https://github.com/alexmatiasas/spm)**
-
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=alexmatiasas&repo=alexmatiasas%2Fspm&show_owner=true&description_lines_count=2&theme=dark_github_repocard)](https://github.com/alexmatiasas/spm)
 
-🐭 [Scraper for showdown replays](https://github.com/alexmatiasas/scraper-for-showdown-replays)
-
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=alexmatiasas&repo=alexmatiasas%2Fscraper-for-showdown-replays&show_owner=true&description_lines_count=2&theme=dark_github_repocard)](https://github.com/alexmatiasas/scraper-for-showdown-replays)
-
-🍴 [stab](https://github.com/alexmatiasas/stab)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=alexmatiasas&repo=alexmatiasas%2Fstab&show_owner=true&description_lines_count=2&theme=dark_github_repocard)](https://github.com/alexmatiasas/stab)
 
@@ -245,11 +217,6 @@ learning: Reinforcement Learning
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandromatiasastorga@gmail.com)
 
 ---
-
-<!-- > _“It is a capital mistake to theorize before one has data. Insensibly one -->
-<!-- > begins to twist facts to suit theories, instead of theories to suit facts.”_ -->
-<!-- > -->
-<!-- > _**A Scandal in Bohemia - Sherlock Holmes**_ -->
 
 [![Quotify](https://github-readme-quotify.vercel.app/api?mode=normal&theme=dark&type=horizontal&quote=It+is+a+capital+mistake+to+theorize+before+one+has+data.+Insensibly+one+begins+to+twist+facts+to+suit+theories,+instead+of+theories+to+suit+facts.&author=A+Scandal+in+Bohemia+/+Sherlock+Holmes)](https://github.com/Vishal-beep136/github-readme-quotify)
 </div>
