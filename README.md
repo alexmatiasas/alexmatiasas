@@ -1,4 +1,4 @@
-<div align='center'↓>
+<div align='center'>
 
 # $\color{gold}{\text{\textsf{Alejandro Matías}}}$
 
@@ -25,7 +25,7 @@
 
 ## $\color{steelblue}{▼}$
 
-#### $\color{steelblue}{\texttt{ Data Scientist } · \texttt{ Machine Learning Engineer } · \texttt{ MLOps } · \texttt{ AI Engineer }}$
+#### $\color{steelblue}{\texttt{ Data Scientist · Machine Learning Engineer  · MLOps · AI Engineer }$
 
 ##### $\color{dodgerblue}{\textsf{Also: Open Source Builder, Linux Enthusiast, Strategic Game Player}}$
 
